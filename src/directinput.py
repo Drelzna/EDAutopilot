@@ -54,6 +54,7 @@ SCANCODE = {
     'DIK_APOSTROPHE'      : 0x28,
     'DIK_GRAVE'           : 0x29,    # accent grave */
     'DIK_LSHIFT'          : 0x2A,
+    'DIK_LEFTSHIFT'       : 0x2A,
     'DIK_BACKSLASH'       : 0x2B,
     'DIK_Z'               : 0x2C,
     'DIK_X'               : 0x2D,
@@ -66,6 +67,7 @@ SCANCODE = {
     'DIK_PERIOD'          : 0x34,    # . on main keyboard */
     'DIK_SLASH'           : 0x35,    # / on main keyboard */
     'DIK_RSHIFT'          : 0x36,
+    'DIK_RIGHTSHIFT'      : 0x36,
     'DIK_MULTIPLY'        : 0x37,    # * on numeric keypad */
     'DIK_LMENU'           : 0x38,    # left Alt */
     'DIK_SPACE'           : 0x39,
@@ -114,6 +116,7 @@ SCANCODE = {
     'DIK_AX'              : 0x96,    #                     (Japan AX) */
     'DIK_UNLABELED'       : 0x97,    #                        (J3100) */
     'DIK_NUMPADENTER'     : 0x9C,    # Enter on numeric keypad */
+    'DIK_NUMPAD_ENTER'    : 0x9C,    # Enter on numeric keypad */
     'DIK_RCONTROL'        : 0x9D,
     'DIK_NUMPADCOMMA'     : 0xB3,    # , on numeric keypad (NEC PC98) */
     'DIK_DIVIDE'          : 0xB5,    # / on numeric keypad */
@@ -137,6 +140,7 @@ SCANCODE = {
     'DIK_LALT'            : 0x38,           # left Alt */
     'DIK_CAPSLOCK'        : 0x3A,         # CapsLock */
     'DIK_NUMPADMINUS'     : 0x4A,        # - on numeric keypad */
+    'DIK_NUMPAD_ADD'      : 0x4E,             # + on numeric keypad */
     'DIK_NUMPADPLUS'      : 0x4E,             # + on numeric keypad */
     'DIK_NUMPADPERIOD'    : 0x53,         # . on numeric keypad */
     'DIK_NUMPADSLASH'     : 0xB5,          # / on numeric keypad */
